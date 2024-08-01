@@ -257,12 +257,8 @@ Welcome to NeuroVision! This roadmap is designed to take you from a complete beg
 
 ---
 
-Feel free to contribute to this repository by adding more resources, improving the existing content, or suggesting new modules. Let's learn and grow together!
-
----
-
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License - see the [LICENSE](LICENSE) file for details.
 
 ---
