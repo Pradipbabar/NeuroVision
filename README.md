@@ -30,7 +30,7 @@ Welcome to NeuroVision! This roadmap is designed to take you from a complete beg
 
 ---
 
-## Module 1: Foundations
+## Module 1: Foundations ⌛
 
 ### Topics:
 - Introduction to AI
@@ -44,7 +44,7 @@ Welcome to NeuroVision! This roadmap is designed to take you from a complete beg
 
 ---
 
-## Module 2: Machine Learning Basics
+## Module 2: Machine Learning Basics ⌛
 
 ### Topics:
 - Introduction to Machine Learning
@@ -58,7 +58,7 @@ Welcome to NeuroVision! This roadmap is designed to take you from a complete beg
 
 ---
 
-## Module 3: Data Preprocessing and Feature Engineering
+## Module 3: Data Preprocessing and Feature Engineering ⌛
 
 ### Topics:
 - Data Cleaning
@@ -72,7 +72,7 @@ Welcome to NeuroVision! This roadmap is designed to take you from a complete beg
 
 ---
 
-## Module 4: Advanced Machine Learning
+## Module 4: Advanced Machine Learning ⌛
 
 ### Topics:
 - Advanced Algorithms (Decision Trees, Random Forests, Gradient Boosting)
@@ -86,7 +86,7 @@ Welcome to NeuroVision! This roadmap is designed to take you from a complete beg
 
 ---
 
-## Module 5: Deep Learning
+## Module 5: Deep Learning ⌛
 
 ### Topics:
 - Introduction to Neural Networks
@@ -101,7 +101,7 @@ Welcome to NeuroVision! This roadmap is designed to take you from a complete beg
 
 ---
 
-## Module 6: Natural Language Processing (NLP)
+## Module 6: Natural Language Processing (NLP) ⌛
 
 ### Topics:
 - Text Preprocessing
@@ -116,7 +116,7 @@ Welcome to NeuroVision! This roadmap is designed to take you from a complete beg
 
 ---
 
-## Module 7: Computer Vision
+## Module 7: Computer Vision ⌛
 
 ### Topics:
 - Image Preprocessing
@@ -131,7 +131,7 @@ Welcome to NeuroVision! This roadmap is designed to take you from a complete beg
 
 ---
 
-## Module 8: Reinforcement Learning
+## Module 8: Reinforcement Learning ⌛
 
 ### Topics:
 - Introduction to Reinforcement Learning
@@ -146,7 +146,7 @@ Welcome to NeuroVision! This roadmap is designed to take you from a complete beg
 
 ---
 
-## Module 9: Practical Projects and Applications
+## Module 9: Practical Projects and Applications ⌛
 
 ### Topics:
 - Building End-to-End Projects
@@ -160,7 +160,7 @@ Welcome to NeuroVision! This roadmap is designed to take you from a complete beg
 
 ---
 
-## Module 10: Model Deployment and Production
+## Module 10: Model Deployment and Production ⌛
 
 ### Topics:
 - Model Serving
@@ -174,7 +174,7 @@ Welcome to NeuroVision! This roadmap is designed to take you from a complete beg
 
 ---
 
-## Module 11: AI in Production Systems
+## Module 11: AI in Production Systems ⌛
 
 ### Topics:
 - Integration with Existing Systems
@@ -188,7 +188,7 @@ Welcome to NeuroVision! This roadmap is designed to take you from a complete beg
 
 ---
 
-## Module 12: Specialized Frameworks and Tools
+## Module 12: Specialized Frameworks and Tools ⌛
 
 ### Topics:
 - Overview of AI Frameworks (Keras, Caffe)
@@ -201,7 +201,7 @@ Welcome to NeuroVision! This roadmap is designed to take you from a complete beg
 
 ---
 
-## Module 13: Ethics and Responsible AI
+## Module 13: Ethics and Responsible AI ⌛
 
 ### Topics:
 - Ethical Considerations in AI
@@ -215,7 +215,7 @@ Welcome to NeuroVision! This roadmap is designed to take you from a complete beg
 
 ---
 
-## Module 14: Advanced Topics and Research
+## Module 14: Advanced Topics and Research ⌛
 
 ### Topics:
 - Current Trends in AI Research
@@ -229,7 +229,7 @@ Welcome to NeuroVision! This roadmap is designed to take you from a complete beg
 
 ---
 
-## Module 15: AI for Specific Domains
+## Module 15: AI for Specific Domains ⌛
 
 ### Topics:
 - AI in Healthcare
@@ -243,7 +243,7 @@ Welcome to NeuroVision! This roadmap is designed to take you from a complete beg
 
 ---
 
-## Module 16: Continuous Learning and Community Engagement
+## Module 16: Continuous Learning and Community Engagement ⌛
 
 ### Topics:
 - Staying Updated with AI Developments
